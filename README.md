@@ -1,7 +1,6 @@
 <h1>Oi pessoal, eu sou Gabriel Martins :v:</h1>
 
-- <p>:technologist: Sou desenvolvedor Back-End | Node JS </p>
-- <p>:yum: Mas as vezes gosto de me aventurar no Front-End</p>
+- <p>:technologist: Sou desenvolvedor Full-Stack | Node JS | React JS </p>
 - <p>:nerd_face: Estou estudando <strong>Jest e React JS</strong></p>
 
 ---
