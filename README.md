@@ -1,6 +1,6 @@
 <h1>Oi pessoal, eu sou Gabriel Martins :v:</h1>
 
-- <p>:technologist: Sou desenvolvedor Full-Stack | Node JS | Typescript | React JS </p>
+- <p>:technologist: Sou desenvolvedor Full-Stack | Node JS | Typescript | React JS | Java | Spring Boot </p>
 - <p>:nerd_face: Estou estudando <strong>Typescript e Jest</strong></p>
 
 ---
